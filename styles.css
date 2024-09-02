@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+}
+
+input[type="text"], input[type="password"], input[type="email"] {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+}
